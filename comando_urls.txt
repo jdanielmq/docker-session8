@@ -1,0 +1,6 @@
+############ URLS ############
+- https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
+- https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+- https://git-scm.com/downloads
+- https://git-scm.com/downloads/linux - https://git-scm.com/downloads/mac
+- https://git-scm.com/book/es/v2/Personalizaci%C3%B3n-de-Git-Configuraci%C3%B3n-de-Git
